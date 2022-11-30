@@ -1,0 +1,8 @@
+---
+title: "file"
+author: "Baptiste Frattini"
+date: "2022-11-30"
+output: html_document
+---
+?usethis::use_github
+
